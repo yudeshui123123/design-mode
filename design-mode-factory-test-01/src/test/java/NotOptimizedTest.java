@@ -1,4 +1,4 @@
-import notOptimized.controller.CommodityController;
+import notoptimized.controller.CommodityController;
 
 /**
  * TODO
