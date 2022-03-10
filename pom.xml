@@ -19,6 +19,7 @@
 
     <modules>
         <module>design-mode-factory-test-01</module>
+        <module>design-mode-Builder-test-02</module>
     </modules>
 
     <dependencyManagement>
