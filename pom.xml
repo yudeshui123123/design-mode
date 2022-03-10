@@ -19,8 +19,9 @@
     </properties>
 
     <modules>
-        <module>design-mode-factory-test-01</module>
-        <module>design-mode-builder-test-02</module>
+        <module>design-mode-01-factory-test</module>
+        <module>design-mode-02-builder-test</module>
+        <module>design-mode-03-prototype-test</module>
     </modules>
 
     <dependencyManagement>
