@@ -1,4 +1,5 @@
 import builder.RenovationBuilder;
+import org.junit.Test;
 
 /**
  * TODO
@@ -9,9 +10,12 @@ import builder.RenovationBuilder;
  * @description:
  */
 public class BuilderTest {
-    public static void main(String[] args) {
+
+    @Test
+    public void testRenovationBuilder(){
         System.out.println(RenovationBuilder.getDeluxeSinglePackage());
         System.out.println(RenovationBuilder.getLightLuxurySinglePackage());
         System.out.println(RenovationBuilder.getVegetarian());
     }
+
 }
