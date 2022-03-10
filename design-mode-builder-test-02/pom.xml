@@ -11,5 +11,10 @@
 
     <artifactId>design-mode-Builder-test-02</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 </project>
