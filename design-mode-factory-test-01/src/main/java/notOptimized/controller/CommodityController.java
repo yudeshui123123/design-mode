@@ -1,8 +1,8 @@
-package notOptimized.controller;
+package notoptimized.controller;
 
-import notOptimized.service.ComputerService;
-import notOptimized.service.FoodService;
-import notOptimized.service.PencilService;
+import notoptimized.service.ComputerService;
+import notoptimized.service.FoodService;
+import notoptimized.service.PencilService;
 
 /**
  * TODO

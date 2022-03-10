@@ -1,4 +1,4 @@
-package notOptimized.service;
+package notoptimized.service;
 
 /**
  * TODO
