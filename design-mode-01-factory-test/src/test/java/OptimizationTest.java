@@ -1,4 +1,3 @@
-import optimization.entity.electronics.Computer;
 import optimization.factory.AbstractCommodityFactory;
 import optimization.factory.CommodityFactory;
 import optimization.service.impl.ComputerServiceImpl;
