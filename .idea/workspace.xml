@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="545e692c-e40a-4026-ad69-a51a9ee00909" name="Default Changelist" comment="原型模式">
+      <change afterPath="$PROJECT_DIR$/design-mode-04-single-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-mode-04-single-test/src/main/java/MySingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-mode-04-single-test/src/test/java/SingleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven-3.5.3-bin" />
+        <option name="userSettingsFile" value="D:\maven-3.5.3-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25rhXIQ229QM5hx7V18i2PGBMxb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-mode-factory-test-01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.48691982" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.SingleTest.test01">
+    <configuration name="NotOptimizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NotOptimizedTest" />
+      <module name="design-mode-01-factory-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptimizationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptimizationTest" />
+      <module name="design-mode-01-factory-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderTest.testRenovationBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-mode-02-builder-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuilderTest" />
+      <option name="METHOD_NAME" value="testRenovationBuilder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTester.Test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-mode-03-prototype-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTester" />
+      <option name="METHOD_NAME" value="Test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-mode-04-single-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingleTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SingleTest.test01" />
+        <item itemvalue="JUnit.MyTester.Test01" />
+        <item itemvalue="Application.NotOptimizedTest" />
+        <item itemvalue="Application.OptimizationTest" />
+        <item itemvalue="JUnit.BuilderTest.testRenovationBuilder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="545e692c-e40a-4026-ad69-a51a9ee00909" name="Default Changelist" comment="" />
+      <created>1646291150985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646291150985</updated>
+      <workItem from="1646291154205" duration="6334000" />
+      <workItem from="1646721574436" duration="10711000" />
+      <workItem from="1646788298960" duration="12913000" />
+      <workItem from="1646873192205" duration="1887000" />
+      <workItem from="1646875120602" duration="10182000" />
+      <workItem from="1646901932489" duration="6241000" />
+      <workItem from="1646959038283" duration="2647000" />
+    </task>
+    <task id="LOCAL-00001" summary="使用jdk动态代理创建对象">
+      <created>1646873329575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646873329575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="建造者模式">
+      <created>1646874113752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646874113752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改包名">
+      <created>1646874671198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646874671198</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改包名">
+      <created>1646874780926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646874780926</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加文件">
+      <created>1646875055886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646875055886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改项目名称">
+      <created>1646875181993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646875181993</updated>
+    </task>
+    <task id="LOCAL-00007" summary="创建者模式">
+      <created>1646893010170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646893010170</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加测试类">
+      <created>1646895596772</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646895596772</updated>
+    </task>
+    <task id="LOCAL-00009" summary="建造者模式">
+      <created>1646897349295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646897349295</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改项目名称">
+      <created>1646901124965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646901124965</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改测试类">
+      <created>1646903110471</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646903110471</updated>
+    </task>
+    <task id="LOCAL-00012" summary="原型模式">
+      <created>1646909137420</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646909137420</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="使用jdk动态代理创建对象" />
+    <MESSAGE value="修改包名" />
+    <MESSAGE value="添加文件" />
+    <MESSAGE value="创建者模式" />
+    <MESSAGE value="添加测试类" />
+    <MESSAGE value="建造者模式" />
+    <MESSAGE value="修改项目名称" />
+    <MESSAGE value="修改测试类" />
+    <MESSAGE value="原型模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="原型模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="274" key="#Notifications" timestamp="1646897464063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1646897464063" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1646903257726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1646903257726" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1646882491353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1646882491353" />
+    <state x="519" y="36" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1646903577255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="36" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1646903577255" />
+    <state x="819" y="227" key="#xdebugger.evaluate" timestamp="1646907486600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="819" y="227" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1646907486600" />
+    <state width="498" height="466" key="DebuggerActiveHint" timestamp="1646819392438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1646819392438" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1646808998526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1646808998526" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1646901873721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1646901873721" />
+    <state x="602" y="310" key="Github.ShareDialog" timestamp="1646794059439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1646794059439" />
+    <state x="417" y="106" key="Github.UntrackedFilesDialog" timestamp="1646794087352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="106" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1646794087352" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1646991721923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646991721923" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1646991721923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646991721923" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1646991721923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646991721923" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1646991721923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646991721923" />
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom" timestamp="1646910274677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646910274677" />
+    <state width="1493" height="310" key="GridCell.Tab.1.center" timestamp="1646910274677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1646910274677" />
+    <state width="1493" height="310" key="GridCell.Tab.1.left" timestamp="1646910274677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1646910274677" />
+    <state width="1493" height="310" key="GridCell.Tab.1.right" timestamp="1646910274677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1646910274677" />
+    <state x="349" y="146" key="IDE.errors.dialog" timestamp="1646897491055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1646897491055" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1646297986745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1646297986745" />
+    <state x="408" y="115" key="NewModule_or_Project.wizard" timestamp="1646291978382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="115" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1646291978382" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1646901989581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1646901989581" />
+    <state width="560" height="446" key="SwitcherDM" timestamp="1646793942319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="560" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1646793942319" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1646910199486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1646910199486" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1646897617494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1646897617494" />
+    <state x="540" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1646876303447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1646876303447" />
+    <state x="256" y="33" key="new project wizard" timestamp="1646959235192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="256" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1646959235192" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1646738016782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1646738016782" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1646907315916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1646907315916" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-mode-01-factory-test/src/main/java/optimization/factory/InvokeHandler.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design-mode-01-factory-test/src/main/java/optimization/factory/JdkProxy.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="myTest.clone()" language="JAVA" />
+        <watch expression="myTest.clone()" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="commodityService.getClass().getClassLoader()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,2 +1,4 @@
 # Project exclude paths
-/design-mode-factory-test-01/target/
+*.idea
+*.log
+*.iml
