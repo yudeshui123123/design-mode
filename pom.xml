@@ -23,6 +23,7 @@
         <module>design-mode-02-builder-test</module>
         <module>design-mode-03-prototype-test</module>
         <module>design-mode-04-single-test</module>
+        <module>design-mode-05-adapter-test</module>
     </modules>
 
     <dependencyManagement>
